@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Green Milk Tea",
+            "price": 4.6,
+            "toppings": "Aloe, White pearl"
+        },
+        {
+            "id": 2,
+            "name": "Oolong Milk Tea",
+            "price": 5.1,
+            "toppings": "Pearl, Milk foam"
+        },          
+        {
+            "id": 3,
+            "name": "Royal Milk Tea",
+            "price": 4.8,
+            "toppings": "Milk foam,White pearl"
+        }
+    ]
+}

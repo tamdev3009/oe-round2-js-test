@@ -1,0 +1,23 @@
+{
+    "products": [
+        
+        {
+            "id": 2,
+            "name": "Oolong Milk Tea",
+            "price": 5.1,
+            "toppings": "Pearl, Milk foam"
+        },
+        {
+            "id": 4,
+            "name": "Blueberry Milk Tea",
+            "price": 5.1,
+            "toppings": "Pearl, milk foam"
+        },
+        {
+            "id": 5,
+            "name": "Mango Milk Tea",
+            "price": 5.1,
+            "toppings": "Aloe, Pearl"
+          }
+    ]
+  }

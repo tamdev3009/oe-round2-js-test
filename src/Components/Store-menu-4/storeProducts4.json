@@ -1,0 +1,24 @@
+{
+  "products":
+  [
+    {
+      "id": 3,
+      "name": "Royal Milk Tea",
+      "price": 4.8,
+      "toppings": "Milk foam,White pearl"
+    },
+  
+    {
+      "id": 4,
+      "name": "Blueberry Milk Tea",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },   
+    {
+      "id": 5,
+      "name": "Mango Milk Tea",
+      "price": 5.1,
+      "toppings": "Aloe, Pearl"
+    }
+  ]
+}
