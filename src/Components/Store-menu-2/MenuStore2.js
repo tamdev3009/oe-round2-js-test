@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react'
-import './menuStore2.css'
 import storeProducts2 from './storeProducts2.json'
 import stores from '../../Data/stores.json';
 import "bootstrap/dist/css/bootstrap.min.css";

@@ -63,7 +63,9 @@
     padding: 20px;
 }
 
-
+.header-menu-right{
+    height: 70px;
+}
 
 .header-menu-right .menu-right-text{
     text-align: center;
